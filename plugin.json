@@ -2,7 +2,7 @@
 	"id": "nodebb-plugin-facebook",
 	"name": "NodeBB Facebook Posts embed Plugin",
 	"description": "NodeBB Plugin that allows users to embed Facebook posts inline in their posts.",
-	"url": "https://github.com/highkick05/nodebb-plugin-facebook",
+	"url": "https://github.com/jenkin/nodebb-plugin-facebook",
 	"library": "./library.js",
 	"hooks": [
 		{ "hook": "filter:parse.post", "method": "parse", "callbacked": true },

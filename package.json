@@ -2,7 +2,7 @@
   "name": "nodebb-plugin-facebook",
   "version": "0.1.0",
   "nbbpm": {
-    "compatibility": "^0.6.0"
+    "compatibility": ">=0.7.0"
   },
   "description": "NodeBB Facebook posts embed Plugin that embeds Facebook posts inline in posts.",
   "main": "library.js",
